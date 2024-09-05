@@ -1,0 +1,5 @@
+test3.txt
+*.secret
+
+#Log files
+*.log
